@@ -1,8 +1,7 @@
 open-browser
 
 open-browser is a Haskell package to open a web browser. See the Haddock
-documentation for more information: http://hackage.haskell.org/package/open-
-browser
+documentation for more information: http://hackage.haskell.org/package/open-browser
 
 Usage:
 
